@@ -1,0 +1,2 @@
+module projetooo {
+}
